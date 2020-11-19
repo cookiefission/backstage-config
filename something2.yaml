@@ -5,6 +5,7 @@ metadata:
   description: Some Thing
   annotations:
     backstage.io/techdocs-ref: github:https://github.com/backstage/backstage.git
+    jenkins.io/github-folder: backstagetest/freestyle
   tags:
     - go
     - devops
