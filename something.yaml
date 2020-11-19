@@ -5,7 +5,7 @@ metadata:
   description: Some Thing
   tags:
     - go
-    - Devops
+    - devops
 spec:
   type: service
   lifecycle: production
