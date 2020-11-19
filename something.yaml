@@ -3,6 +3,8 @@ kind: Component
 metadata:
   name: something
   description: Some Thing
+  annotations:
+    backstage.io/techdocs-ref: github:https://github.com/backstage/backstage.git
   tags:
     - go
     - devops
