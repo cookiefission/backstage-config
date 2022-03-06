@@ -1,0 +1,14 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: importtest
+  description: Testing import
+  annotations:
+    backstage.io/techdocs-ref: github:https://github.com/backstage/backstage.git
+  tags:
+    - go
+    - devops
+spec:
+  type: service
+  lifecycle: production
+  owner: guest
